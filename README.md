@@ -1,9 +1,14 @@
 Overall Metrics:
 
 Sum of Amount: 438K
+
 Sum of Profit: 37K
+
 Sum of Quantity: 6K
+
 Sum of AOV (Average Order Value): 121K
+
+
 Sum of Amount by State:
 
 Maharashtra: Highest sales
@@ -11,9 +16,11 @@ Madhya Pradesh: Second highest
 Uttar Pradesh, Delhi, Rajasthan: Follow in decreasing order
 Profit by Month:
 
+
 Highest profits in January, February, August, and November
 Lowest profit in June with a negative value
 Quantity by Payment Mode:
+
 
 COD (Cash on Delivery): 43.74%
 UPI: 20.61%
@@ -22,14 +29,17 @@ Credit Card: 11.97%
 EMI: 10.49%
 Top 5 Customers:
 
+
 Harivansh: Highest customer with around 10K value
 Followed by Maidev, Maan Mohan, Shiva, and Vishakha
 Sum of Profit by Sub-Category:
+
 
 Printers: Highest profit
 Bookcases and Sarees: Significant profits
 Accessories, Tables, Trousers, Stole, Phones, Handkerchief, Chairs: Follow in decreasing order of profit
 Sum of Quantity by Category:
+
 
 Clothing: 62.62%
 Electronics: 20.55%
